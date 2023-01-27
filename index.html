@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./pages/index.css">
+
   <title>Научиться учиться</title>
 </head>
 <body>
@@ -223,8 +224,10 @@
 
       <section class="comments">
         <h2 class="section-title">Критика и восхищение</h2>
-        <textarea class="comments__form" placeholder="Место для ваших мыслей"></textarea>
-        <button class="comments__button">Отправить</button>
+        <form id="comments" action="https://google.com" target="_blank" method="POST" class="comments__forms">
+          <textarea form="comments" rows="5" class="comments__form" placeholder="Место для ваших мыслей"></textarea>
+          <button type="submit" class="comments__button">Отправить</button>
+      </form>
         <div class="comments__circle-pic skew"></div>
       </section>
 

@@ -82,7 +82,9 @@
 @import url(../blocks/resources/__link/resources__link.css);
 /* COMMENTS */
 @import url(../blocks/comments/comments.css);
+@import url(../blocks/comments/__forms/comments__forms.css);
 @import url(../blocks/comments/__form/comments__form.css);
+
 @import url(../blocks/comments/__button/comments__button.css);
 @import url(../blocks/comments/__circle-pic/comments__circle-pic.css);
 
