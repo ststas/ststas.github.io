@@ -10,8 +10,8 @@
   z-index: 1;
 }
 
-.comments__button:hover {
-  border-color: #2f80ed;
-  color: #2f80ed;
-  transition: 0.2s;
+.comments__button:active {
+  border-color: #2f80ed;;
+  color: #2f80ed;;
+  transition: 0;
 }
