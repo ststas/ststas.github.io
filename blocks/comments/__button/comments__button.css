@@ -4,7 +4,9 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
+  font-stretch: expanded;
   border: 1px solid #1f1f1f;
+  background-color: #f2f2f2;
   box-sizing: border-box;
   border-radius: 5px;
   z-index: 1;
@@ -13,5 +15,5 @@
 .comments__button:active {
   border-color: #2f80ed;;
   color: #2f80ed;;
-  transition: 0;
+  transition: 0,1s;
 }
