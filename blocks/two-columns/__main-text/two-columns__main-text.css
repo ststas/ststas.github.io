@@ -5,6 +5,5 @@
   display: -ms-flexbox;
   display: -webkit-flexbox;
   display: -moz-flexbox;
-  padding-top: 100px;
   flex-direction: column;
 }

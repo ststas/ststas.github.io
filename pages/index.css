@@ -1,7 +1,8 @@
 /* VENDOR*/
 @import url(../vendor/normalize.css);
-/* PAGE */
+/* PAGE & FONTS*/
 @import url(../blocks/page/page.css);
+@import url(../fonts/fonts.css);
 /* KEYFRAMES */
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/skew/skew.css);
