@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./pages/index.css">
-  <script src="./scripts/form-reset.js1"></script>
+
   <title>Научиться учиться</title>
 </head>
 <body>
@@ -224,12 +224,10 @@
 
       <section class="comments">
         <h2 class="section-title">Критика и восхищение</h2>
-
-        <form id="comments" method="post" action="#" target="_blank" class="comments__forms">
+        <form id="comments" method="get" action="#" target="_blank" class="comments__forms">
           <textarea form="comments" name="thoughts" rows="5" class="comments__form" placeholder="Место для ваших мыслей"></textarea>
           <button type="submit" class="comments__button">Отправить</button>
         </form>
-
         <div class="comments__circle-pic skew"></div>
       </section>
 
@@ -265,5 +263,6 @@
     </footer>
 
   </div>
+  <script src="./scripts/form-reset.js"></script>
 </body>
 </html>
