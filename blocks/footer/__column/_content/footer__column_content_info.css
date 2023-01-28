@@ -1,4 +1,7 @@
 .footer__column_content_info {
   display: flex;
+  display: -ms-flexbox;
+  display: -webkit-flexbox;
+  display: -moz-flexbox;
   justify-content: flex-start;
 }

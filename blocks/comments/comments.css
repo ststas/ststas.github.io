@@ -1,5 +1,8 @@
 .comments {
   display: flex;
+  display: -ms-flexbox;
+  display: -webkit-flexbox;
+  display: -moz-flexbox;
   flex-direction: column;
   position: relative;
   align-items: center;

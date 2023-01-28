@@ -1,5 +1,8 @@
 .table__heading {
   display: flex;
+  display: -ms-flexbox;
+  display: -webkit-flexbox;
+  display: -moz-flexbox;
   margin: 0;
   padding: 0;
   line-height: 1.15;
