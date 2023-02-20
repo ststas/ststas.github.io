@@ -4,14 +4,9 @@
   grid-auto-flow: column;
   position: relative;
   justify-content: end;
-}
-
-@media screen and (min-width: 320px) {
-  .header {
-    width: 288px;
-    min-height: 42px;
-    margin: 16px auto 0;
-  }  
+  width: 288px;
+  min-height: 42px;
+  margin: 16px auto 0;
 }
 
 @media screen and (min-width: 768px) {
@@ -33,7 +28,5 @@
 @media screen and (min-width: 1280px) {
   .header {
     width: 1184px;
-    min-height: 52px;
-    margin: 28px auto 0;
   }
 }

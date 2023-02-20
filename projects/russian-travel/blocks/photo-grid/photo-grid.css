@@ -1,20 +1,15 @@
 .photo-grid {
   grid-area: photo-grid;
   display: grid;
-}
-
-@media screen and (min-width: 320px) {
-  .photo-grid {
-    width: 288px;
-    margin: 64px auto 0;
-    grid-template-columns: 1fr;
-    gap: 12px;
-  }
+  grid-template-columns: 1fr;
+  gap: 12px;
+  width: 288px;
+  margin: 64px auto 0;
 }
 
 @media screen and (min-width: 768px) {
   .photo-grid {
-    min-width: 720px;
+    width: 720px;
     margin: 88px auto 0;
     grid-template-columns: repeat(2, 1fr);
     gap: 16px;
@@ -33,8 +28,6 @@
 @media screen and (min-width: 1280px) {
   .photo-grid {
     width: 1184px;
-    margin: 92px auto 0;
     grid-template-columns: repeat(4, 1fr);
-    gap: 14px;
   }
 }
