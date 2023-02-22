@@ -1,9 +1,7 @@
 .header {
   grid-area: header;
-  display: grid;
-  grid-auto-flow: column;
-  position: relative;
-  justify-content: end;
+  display: flex;
+  flex-direction: row;
   width: 288px;
   min-height: 42px;
   margin: 16px auto 0;

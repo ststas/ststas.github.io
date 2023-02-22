@@ -3,14 +3,12 @@
   display: grid;
   grid-template-columns: 1fr;
   gap: 12px;
-  width: 288px;
-  margin: 64px auto 0;
+  margin: 64px 16px 0;
 }
 
 @media screen and (min-width: 768px) {
   .photo-grid {
-    width: 720px;
-    margin: 88px auto 0;
+    margin: 88px 24px 0;
     grid-template-columns: repeat(2, 1fr);
     gap: 16px;
   } 
@@ -18,8 +16,7 @@
 
 @media screen and (min-width: 1024px) {
   .photo-grid {
-    width: 928px;
-    margin: 92px auto 0;
+    margin: 92px 48px 0;
     grid-template-columns: repeat(3, 1fr);
     gap: 14px;
   }
@@ -27,7 +24,6 @@
 
 @media screen and (min-width: 1280px) {
   .photo-grid {
-    width: 1184px;
     grid-template-columns: repeat(4, 1fr);
   }
 }
