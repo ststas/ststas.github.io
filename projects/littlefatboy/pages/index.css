@@ -1,0 +1,29 @@
+/*VENDOR*/
+@import url(../vendor/normalize.css);
+/*PAGE & FONTS*/
+@import url(../blocks/page/page.css);
+@import url(../vendor/fonts/fonts.css);
+/*HEADER*/
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__navigation/header__navigation.css);
+@import url(../blocks/header/__menu-button-container/header__menu-button-container.css);
+@import url(../blocks/header/__menu-button/header__menu-button.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__menu/_opened/header__menu_opened.css);
+@import url(../blocks/header/__menu-element/header__menu-element.css);
+@import url(../blocks/header/__menu-link/header__menu-link.css);
+@import url(../blocks/header/__cards/header__cards.css);
+@import url(../blocks/header/__card/header__card.css);
+@import url(../blocks/header/__card-image/header__card-image.css);
+@import url(../blocks/header/__card/_middle/header__card_middle.css);
+@import url(../blocks/header/__card/_z-index/header__card_z-index.css);
+@import url(../blocks/header/__card-title/header__card-title.css);
+
+/*CATEGORY*/
+@import url(../blocks/category/category.css);
+@import url(../blocks/category/__card/category__card.css);
+
+/*FOOTER*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
