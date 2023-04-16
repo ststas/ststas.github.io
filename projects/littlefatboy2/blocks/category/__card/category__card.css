@@ -1,0 +1,15 @@
+.category__card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 190px;
+  margin: 0 35px 110px;
+}
+
+.category__card:first-child {
+  margin-left: 0px;
+}
+
+
+
+  

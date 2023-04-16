@@ -1,0 +1,13 @@
+.category__cards {
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  margin: 0;
+  padding: 0;
+  -webkit-overflow-scrolling: touch;
+}
+
+.category__cards::-webkit-scrollbar {
+  display: none;
+}

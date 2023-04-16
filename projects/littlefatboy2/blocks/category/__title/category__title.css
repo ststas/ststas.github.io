@@ -1,0 +1,17 @@
+.category__title {
+  font-family: 'Noto Sans TC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: 0.96px;
+  text-transform: uppercase;
+  color: #2A1804;
+  margin: 0 0 37px;
+}
+
+@media screen and (min-width: 475px) {
+  .category__title  {
+    margin: 0 0 67px;
+  }
+}
