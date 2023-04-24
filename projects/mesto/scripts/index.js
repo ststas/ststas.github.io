@@ -1,6 +1,6 @@
 //ипортируем данные
-import initialCards from "./initial-сards.js"
 import validationConfig from "./validation-config.js"
+import initialCards from "./initial-сards.js"
 //импортируем классы
 import Card from "./Card.js"
 import FormValidator from "./FormValidator.js"
