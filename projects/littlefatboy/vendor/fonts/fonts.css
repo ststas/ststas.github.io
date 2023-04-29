@@ -2,15 +2,13 @@
   font-family: 'Noto Sans';
   font-style:  normal;
   font-weight: 400;
-  font-display: swap;
-  src: url(./NotoSans-Regular.woff2) format("woff2"),
+  src: url(./NotoSans-Regular.woff2) format("woff2")
 }
 
 @font-face {
-  font-family: 'Noto Serif Traditional Chinese';
+  font-family: 'Noto Serif';
   font-style:  normal;
   font-weight: 400;
-  font-display: swap;
   src: url(./NotoSerifTC-Regular.woff2) format("woff2"),
 }
 
@@ -18,6 +16,5 @@
   font-family: 'Roboto';
   font-style:  normal;
   font-weight: 400;
-  font-display: swap;
   src: url(./Roboto-Regular.woff2) format("woff2"),
 }

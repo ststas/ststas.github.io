@@ -6,24 +6,61 @@
 /*HEADER*/
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
-@import url(../blocks/header/__navigation/header__navigation.css);
-@import url(../blocks/header/__menu-button-container/header__menu-button-container.css);
-@import url(../blocks/header/__menu-button/header__menu-button.css);
-@import url(../blocks/header/__menu/header__menu.css);
-@import url(../blocks/header/__menu/_opened/header__menu_opened.css);
-@import url(../blocks/header/__menu-element/header__menu-element.css);
-@import url(../blocks/header/__menu-link/header__menu-link.css);
-@import url(../blocks/header/__cards/header__cards.css);
-@import url(../blocks/header/__card/header__card.css);
-@import url(../blocks/header/__card-image/header__card-image.css);
-@import url(../blocks/header/__card/_middle/header__card_middle.css);
-@import url(../blocks/header/__card/_z-index/header__card_z-index.css);
-@import url(../blocks/header/__card-title/header__card-title.css);
+/*NAVIGATION*/
+@import url(../blocks/navigation/navigation.css);
+@import url(../blocks/navigation/__block/navigation__block.css);
+@import url(../blocks/navigation/__menu-button-container/navigation__menu-button-container.css);
+@import url(../blocks/navigation/__menu-button/navigation__menu-button.css);
+@import url(../blocks/navigation/__menu-button/_clicked/navigation__menu-button_clicked.css);
+@import url(../blocks/navigation/__menu/navigation__menu.css);
+@import url(../blocks/navigation/__menu-overlay/navigation__menu-overlay.css);
+@import url(../blocks/navigation/__menu-overlay/_opened/navigation__menu-overlay_opened.css);
+@import url(../blocks/navigation/__menu/_opened/navigation_menu_opened.css);
+@import url(../blocks/navigation/__menu-element/navigation__menu-element.css);
+@import url(../blocks/navigation/__menu-link/navigation__menu-link.css);
+/*TOP CARDS*/
+@import url(../blocks/top/top.css);
+@import url(../blocks/top/__cards/top__cards.css);
+@import url(../blocks/top/__card/top__card.css);
+@import url(../blocks/top/__card/_middle/top__card_middle.css);
+@import url(../blocks/top/__card/_z-index/top__card_z-index.css);
+@import url(../blocks/top/__card-image/top__card-image.css);
+@import url(../blocks/top/__card-title/top__card-title.css);
 
+/*LEAD*/
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__image/lead__image.css);
+/*INTRO*/
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__paragraph/intro__paragraph.css);
+/*THIS WEEK*/
+@import url(../blocks/this-week/this-week.css);
+@import url(../blocks/this-week/__title/this-week__title.css);
+/*THIS WEEK CARDS*/
+@import url(../blocks/this-week/__cards/this-week__cards.css);
+@import url(../blocks/this-week/__card/this-week__card.css);
+@import url(../blocks/this-week/__card-image/this-week__card-image.css);
+@import url(../blocks/this-week/__card-title/this-week__card-title.css);
+@import url(../blocks/this-week/__card-paragraph/this-week__card-paragraph.css);
+/*THIS WEEK FIGURE*/
+@import url(../blocks/this-week/__figure/this-week__figure.css);
+@import url(../blocks/this-week/__figure-image/this-week__figure-image.css);
+@import url(../blocks/this-week/__figure/_middle/this-week__figure_middle.css);
+@import url(../blocks/this-week/__figure-caption/this-week__figure-caption.css);
+/*THIS WEEK STORY*/
+@import url(../blocks/this-week/__story/this-week__story.css);
+@import url(../blocks/this-week/__story-paragraph/this-week__story-paragraph.css);
+@import url(../blocks/this-week/__story-button/this-week__story-button.css);
 /*CATEGORY*/
 @import url(../blocks/category/category.css);
+@import url(../blocks/category/__title/category__title.css);
+@import url(../blocks/category/__cards/category__cards.css);
 @import url(../blocks/category/__card/category__card.css);
-
+@import url(../blocks/category/__card-link/category__card-link.css);
+@import url(../blocks/category/__card-title/category__card-title.css);
+@import url(../blocks/category/__card-image/category__card-image.css);
 /*FOOTER*/
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);

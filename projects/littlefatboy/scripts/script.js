@@ -1,9 +1,28 @@
-const headerMenuButtonElement = document.querySelector('.header__menu-button-container');
-const headerMenuElement = document.querySelector('.header__menu');
-console.log(headerMenuButtonElement);
+const navigationBlockElement = document.querySelector('.navigation__block');
+const headerMenuElement = navigationBlockElement.querySelector('.navigation__menu');
+const headerMenuButtonContainerElement = navigationBlockElement.querySelector('.navigation__menu-button-container');
+const headerMenuButtonElement = headerMenuButtonContainerElement.querySelector('.navigation__menu-button')
+const headerMenuOverlayElement = navigationBlockElement.querySelector('.navigation__menu-overlay');
 
-const openHeaderMenu = function() {
-  headerMenuElement.classList.toggle('header__menu_opened')
+//menu open & close functions
+const openCloseHeaderMenu = function() {
+  headerMenuElement.classList.toggle('navigation__menu_opened')
+}
+const openCloseMenuOverlay = function() {
+  headerMenuOverlayElement.classList.toggle('navigation__menu-overlay_opened')
+}
+const clickNavigationMenuButton = function() {
+  headerMenuButtonElement.classList.toggle('navigation__menu-button_clicked')
 }
 
-headerMenuButtonElement.addEventListener('click', openHeaderMenu)
+//set event listeners
+headerMenuButtonContainerElement.addEventListener('click', function() {
+  openCloseHeaderMenu();
+  openCloseMenuOverlay();
+  clickNavigationMenuButton();
+})
+headerMenuOverlayElement.addEventListener('click', function () {
+  openCloseHeaderMenu();
+  openCloseMenuOverlay();
+  clickNavigationMenuButton();
+});

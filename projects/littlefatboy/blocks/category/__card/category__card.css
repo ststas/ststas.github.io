@@ -1,13 +1,13 @@
 .category__card {
   display: flex;
-  height: 200px;
-  min-width: 200px;
-  background-color: salmon;
-  /* background-image: url(../../../images/pearl-meatballs.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center; */
-  margin: 5px 30px;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 190px;
+  margin: 0 35px 110px;
+}
+
+.category__card:first-child {
+  margin-left: 0px;
 }
 
 

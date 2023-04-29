@@ -1,0 +1,15 @@
+.navigation__menu-element {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.navigation__menu-element:first-child {
+  margin-top: 0;
+}
+
+@media screen and (min-width: 475px) {
+  .navigation__menu-element {
+    margin: 0 10px 0 0;
+  }
+}

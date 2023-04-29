@@ -1,15 +1,16 @@
 .footer {
-  grid-area: footer;
   display: flex;
   flex-direction: row;
   background-color: #FDF9F1;
+  box-sizing: border-box;
   padding-left: 30px;
-  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
 
 }
 
-/* @media screen and (min-width: 1200px) {
+@media screen and (min-width: 1200px) {
   .footer {
     max-width: 1200px;
   }
-} */
+}

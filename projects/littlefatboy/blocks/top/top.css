@@ -1,14 +1,14 @@
-.header {
+.top {
   display: flex;
   flex-direction: column;
-  position: relative;
-  background-color: #FDF9F1;
   width: 100%;
   margin: 0 auto;
+  background-color: #FDF9F1;
 }
 
+
 @media screen and (min-width: 1200px) {
-  .header {
+  .top {
     max-width: 1200px;
   }
 }

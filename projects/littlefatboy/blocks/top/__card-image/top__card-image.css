@@ -1,0 +1,6 @@
+.top__card-image {
+  width: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  filter:saturate(120%) brightness(110%);
+}

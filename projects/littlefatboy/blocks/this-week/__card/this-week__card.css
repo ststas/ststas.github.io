@@ -1,0 +1,49 @@
+.this-week__card {
+  display: flex;
+  flex-direction: column;
+  min-width: 260px;
+  margin-bottom: 30px;
+}
+.this-week__card:last-child {
+  margin-bottom: 0;
+}
+@media screen and (min-width: 475px) {
+  .this-week__card {
+    margin: 0 45px 0 0;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .this-week__card {
+    width: 260px;
+  }
+  .this-week__card:last-child {
+    margin-right: 0px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .this-week__card {
+    margin-right: auto;
+    min-width: 280px;
+  }
+  .this-week__card:first-child {
+    margin-left: 30px;
+  }
+  .this-week__card:last-child {
+    margin-right: 30px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .this-week__card {
+    margin: 0 90px 0 0;
+    width: 280px;
+  }
+  .this-week__card:first-child {
+    margin-left: 60px;
+  }
+  .this-week__card:last-child {
+    margin-right: 60px;
+  }
+}

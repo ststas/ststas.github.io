@@ -1,0 +1,8 @@
+.this-week__figure-image {
+  max-height: 640px;
+  width: 100%;
+  object-fit: cover;
+  margin: 0;
+  padding: 0;
+
+}

@@ -1,0 +1,18 @@
+.this-week__figure-caption {
+  margin: 15px 0 0;
+  padding: 0;
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  letter-spacing: 0.48px;
+  color: #2A1804;
+}
+
+@media screen and (min-width: 768px) {
+  .this-week__figure-caption {
+    margin: 30px 0 0;
+    font-size: 22px;
+  } 
+}
