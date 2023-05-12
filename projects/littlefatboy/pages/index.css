@@ -39,10 +39,25 @@
 @import url(../blocks/this-week/this-week.css);
 @import url(../blocks/this-week/__title/this-week__title.css);
 /*THIS WEEK CARDS*/
-@import url(../blocks/this-week/__cards/this-week__cards.css);
+@import url(../blocks/this-week/__cards-block-one/this-week__cards-block-one.css);
+@import url(../blocks/this-week/__cards-block-two/this-week__cards-block-two.css);
+@import url(../blocks/this-week/__cards-block-three/this-week__cards-block-three.css);
+@import url(../blocks/this-week/__cards-block-four/this-week__cards-block-four.css);
+
 @import url(../blocks/this-week/__card/this-week__card.css);
+@import url(../blocks/this-week/__card-horizontal.css/this-week__card-horizontal.css);
+@import url(../blocks/this-week/__card/_big/this-week__card_big.css);
+@import url(../blocks/this-week/__card/_mid/this-week__card_mid.css);
+@import url(../blocks/this-week/__container-card-big/this-week__container-card-big.css);
+@import url(../blocks/this-week/__container-card-mid/this-week__container-card-mid.css);
+@import url(../blocks/this-week/__container-card-bottom/this-week__container-card-bottom.css);
+
 @import url(../blocks/this-week/__card-image/this-week__card-image.css);
+@import url(../blocks/this-week/__card-image/_horizontal/this-week__card-image_horizontal.css);
+
 @import url(../blocks/this-week/__card-title/this-week__card-title.css);
+@import url(../blocks/this-week/__card-title/_horizontal/this-week__card-title_horizontal.css);
+
 @import url(../blocks/this-week/__card-paragraph/this-week__card-paragraph.css);
 /*THIS WEEK FIGURE*/
 @import url(../blocks/this-week/__figure/this-week__figure.css);
@@ -63,4 +78,15 @@
 @import url(../blocks/category/__card-image/category__card-image.css);
 /*FOOTER*/
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__form/footer__form.css);
+@import url(../blocks/footer/__form-field/footer__form-field.css);
+@import url(../blocks/footer/__form-input/footer__form-input.css);
+@import url(../blocks/footer/__form-error/footer__form-error.css);
+@import url(../blocks/footer/__form-submit-button/footer__form-submit-button.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__copyright-socials/footer__copyright-socials.css);
+@import url(../blocks/footer/__socials/footer__socials.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__top/footer__top.css);
+@import url(../blocks/footer/__bottom/footer__bottom.css);

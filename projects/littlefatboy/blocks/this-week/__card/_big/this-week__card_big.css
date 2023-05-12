@@ -1,0 +1,5 @@
+@media screen and (min-width: 768px) {
+  .this-week__card_big {
+    width: 100%;
+  }
+}

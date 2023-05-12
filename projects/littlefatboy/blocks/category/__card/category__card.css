@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: space-between;
   max-width: 190px;
-  margin: 0 35px 110px;
+  margin: 0 35px;
 }
 
 .category__card:first-child {

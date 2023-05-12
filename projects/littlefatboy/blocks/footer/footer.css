@@ -1,9 +1,9 @@
 .footer {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   background-color: #FDF9F1;
   box-sizing: border-box;
-  padding-left: 30px;
+  padding: 30px 30px;
   width: 100%;
   margin: 0 auto;
 

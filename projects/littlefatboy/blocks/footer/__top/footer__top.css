@@ -1,0 +1,19 @@
+.footer__top {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 60px;
+}
+@media screen and (min-width: 475px) {
+  .footer__top {
+    margin-bottom: 0;
+  }
+}
+
+
+@media screen and (min-width: 1024px) {
+  .footer__top {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}

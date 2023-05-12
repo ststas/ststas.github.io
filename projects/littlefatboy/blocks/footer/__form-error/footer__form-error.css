@@ -1,0 +1,19 @@
+.footer__form-error {
+  min-height: 30px;
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 125%;
+  letter-spacing: 0.96px;
+  color: #db0b0b;
+  text-align: center;
+  margin: 10px 0;
+  visibility: hidden;
+}
+
+@media screen and (min-width: 475px) {
+  .footer__form-error {
+    text-align: start;
+  }
+}

@@ -1,0 +1,32 @@
+.footer__form-submit-button {
+  min-width: 145px;
+  height: 40px;
+  box-sizing: border-box;
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 30px;
+  letter-spacing: 0.96px;
+  color: #2A1804;
+  border: 1px solid #2A1804;
+  border-radius: 0px;
+  background: transparent;
+  /* margin-top: 30px; */
+  padding: 0;
+  
+}
+
+.footer__form-submit-button:hover {
+  cursor: pointer;
+  opacity: 0.6;
+  transition: opacity 0.2s linear;
+}
+
+@media screen and (min-width: 475px) {
+  .footer__form-submit-button {
+    margin-top: 0;
+    align-self: start;
+    
+  }
+}

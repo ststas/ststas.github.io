@@ -1,0 +1,11 @@
+.footer__socials {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+}
+
+@media screen and (min-width: 475px) {
+  .footer__socials {
+    margin: 0;
+  }
+}

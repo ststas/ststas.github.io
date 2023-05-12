@@ -1,0 +1,14 @@
+.footer__form-field {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 475px) {
+  .footer__form-field {
+    margin-right: 20px;
+  }
+  
+}

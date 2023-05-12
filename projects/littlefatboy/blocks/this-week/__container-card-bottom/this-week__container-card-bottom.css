@@ -1,0 +1,28 @@
+.this-week__container-card-bottom {
+  grid-area: card-bottom;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 90px 0;
+  justify-items: center;
+  width: 100%;
+}
+
+@media screen and (min-width: 640px) {
+  .this-week__container-card-bottom {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 60px 60px;
+  }
+}
+
+
+@media screen and (min-width: 1024px) {
+  .this-week__container-card-bottom {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media screen and (min-width: 1080px) {
+  .this-week__container-card-bottom {
+    gap: 90px 90px;
+  }
+}

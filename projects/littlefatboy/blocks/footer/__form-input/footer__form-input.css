@@ -1,0 +1,23 @@
+.footer__form-input {
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 1px solid #2A1804;
+  background-color: transparent;
+  outline: none;
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 39px;
+  letter-spacing: 0.96px;
+  color: #2A1804;
+  text-align: center;
+  padding: 0;
+}
+
+@media screen and (min-width: 475px) {
+  .footer__form-input {
+    
+    text-align: start;
+  }
+}

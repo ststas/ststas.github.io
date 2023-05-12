@@ -1,9 +1,10 @@
 .category__cards {
+  position: relative;
   display: flex;
   flex-direction: row;
   overflow-x: scroll;
   overflow-y: hidden;
-  margin: 0;
+  margin-bottom: 120px;
   padding: 0;
   -webkit-overflow-scrolling: touch;
 }

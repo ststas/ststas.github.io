@@ -1,7 +1,6 @@
 .page {
   display: flex;
   flex-direction: column;
-  
   min-width: 320px;
   font-family: 'Noto Sans', 'Noto Serif', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
   text-rendering: optimizeLegibility;
