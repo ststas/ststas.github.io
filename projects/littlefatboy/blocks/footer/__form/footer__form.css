@@ -8,6 +8,5 @@
   .footer__form {
     flex-direction: row;
     align-items: end;
-    max-width: 410px;
   }
 }
