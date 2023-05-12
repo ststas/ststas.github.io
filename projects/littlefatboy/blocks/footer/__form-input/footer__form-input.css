@@ -1,6 +1,7 @@
 .footer__form-input {
   box-sizing: border-box;
   border: none;
+  border-radius: 0;
   border-bottom: 1px solid #2A1804;
   background-color: transparent;
   outline: none;
