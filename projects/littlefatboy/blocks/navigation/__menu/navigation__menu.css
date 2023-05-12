@@ -9,7 +9,10 @@
   background-color: #B3B0A3;
   z-index: 5;
   opacity: 0;
-  transition: opacity 0.3s linear;
+  -webkit-transition: -webkit-opacity 0.3s ease-out;
+  -moz-transition: opacity 0.3s ease-out;
+  -o-transition: opacity 0.3s ease-out;
+  transition: opacity 0.3s ease-out;
   pointer-events: none;
 }
 
