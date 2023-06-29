@@ -1,8 +1,0 @@
-.comments__forms {
-  display: flex;
-  width: 47%;
-  flex-direction: column;
-  align-items: center;
-  margin: 10px auto;
-  z-index: 2;
-}
