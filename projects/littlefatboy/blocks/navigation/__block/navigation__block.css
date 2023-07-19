@@ -1,0 +1,19 @@
+.navigation__block {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+  min-height: 40px;
+  background-color: #B3B0A3;
+  padding-left: 30px;
+}
+
+@media screen and (min-width: 475px) {
+  .header__block {
+    flex-direction: row;
+    height: 60px;
+    align-items: center;
+    justify-content: start;
+  }
+}

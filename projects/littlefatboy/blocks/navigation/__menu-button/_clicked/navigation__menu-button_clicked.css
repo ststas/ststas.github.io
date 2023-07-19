@@ -1,0 +1,18 @@
+.navigation__menu-button_clicked::after {
+  transform: rotate(405deg);
+  transition: transform 400ms cubic-bezier(0.23, 1, 0.32, 1);
+  margin-top: -3px;
+
+}
+
+.navigation__menu-button_clicked {
+  background: rgba(255, 255, 255, 0);
+}
+
+
+
+.navigation__menu-button_clicked::before {
+  transform: rotate(-405deg);
+  transition: transform 400ms cubic-bezier(0.23, 1, 0.32, 1);
+  margin-top: 0;
+} 

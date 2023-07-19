@@ -1,0 +1,5 @@
+.this-week__card-image {
+  width: 100%;
+  object-fit: cover;
+  filter: saturate(110%) brightness(105%);
+}

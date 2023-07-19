@@ -1,0 +1,14 @@
+.category__card-title {
+  display: flex;
+  box-sizing: border-box;
+  min-width: 22px;
+  margin: 0 0 21px 0;
+  padding: 0;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  letter-spacing: 0.45px;
+  color: #2A1804;
+}

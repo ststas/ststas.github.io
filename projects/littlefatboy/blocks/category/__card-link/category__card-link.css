@@ -1,0 +1,11 @@
+.category__card-link {
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+.category__card-link:hover {
+  cursor: pointer;
+  opacity: 0.7;
+  transition: 0.3s;
+}

@@ -1,0 +1,11 @@
+.resources {
+  display: flex;
+  display: -ms-flexbox;
+  display: -webkit-flexbox;
+  display: -moz-flexbox;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
+  padding-bottom: 217px;
+  overflow: hidden;
+}

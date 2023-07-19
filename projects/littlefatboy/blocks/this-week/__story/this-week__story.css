@@ -1,0 +1,13 @@
+.this-week__story {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+}
+
+@media screen and (min-width: 1024px) {
+  .this-week__story {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+}

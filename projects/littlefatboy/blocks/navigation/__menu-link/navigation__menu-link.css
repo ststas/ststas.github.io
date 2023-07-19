@@ -1,0 +1,17 @@
+.navigation__menu-link {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 40px;
+  letter-spacing: 0.36px;
+  color: #2A1804;
+  text-decoration: none;
+}
+
+.navigation__menu-link:hover {
+  cursor: pointer;
+  opacity: 0.6;
+  transition: opacity 0.2s linear;
+}
+

@@ -1,0 +1,21 @@
+.this-week__card-horizontal {
+  display: grid;
+  grid-auto-rows: min-content;
+  gap: 23px 0;
+  align-items: start;
+  padding: 0;
+}
+
+@media screen and (min-width: 475px) {
+  .this-week__card-horizontal {
+    grid-template-columns: min-content minmax(min-content, 548px);
+    gap: 0 20px;
+  } 
+}
+
+@media screen and (min-width: 1024px) {
+  .this-week__card-horizontal {
+    grid-template-columns: min-content 1fr;
+    gap: 0 20px;
+  } 
+}

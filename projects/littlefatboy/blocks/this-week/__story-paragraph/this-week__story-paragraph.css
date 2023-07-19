@@ -1,0 +1,18 @@
+.this-week__story-paragraph {
+  margin: 0;
+  padding: 0;
+  max-width: 744px;
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 125%;
+  letter-spacing: 0.36px;
+  color: #2A1804;
+}
+
+@media screen and (min-width: 475px) {
+  .this-week__story-paragraph {
+    font-size: 24px;
+  }
+}

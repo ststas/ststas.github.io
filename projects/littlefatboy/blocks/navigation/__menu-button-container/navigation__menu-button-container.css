@@ -1,0 +1,16 @@
+.navigation__menu-button-container {
+  display: flex;
+  height: 20px;
+  width: 30px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  z-index: 5;
+}
+
+@media screen and (min-width: 475px) {
+  .navigation__menu-button-container {
+    display: none;
+  }
+}

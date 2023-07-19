@@ -1,0 +1,28 @@
+.header {
+  grid-area: header;
+  display: flex;
+  flex-direction: row;
+  width: 288px;
+  min-height: 42px;
+  margin: 16px auto 0;
+}
+
+@media screen and (min-width: 768px) {
+  .header {
+    width: 720px;
+    min-height: 52px;
+    margin: 28px auto 0;
+  } 
+}
+
+@media screen and (min-width: 1024px) {
+  .header {
+    width: 928px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .header {
+    width: 1184px;
+  }
+}

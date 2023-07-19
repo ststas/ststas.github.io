@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background-color: #FDF9F1;
+  width: 100%;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 1200px) {
+  .header {
+    max-width: 1200px;
+  }
+}

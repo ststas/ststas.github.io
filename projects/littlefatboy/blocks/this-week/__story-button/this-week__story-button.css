@@ -1,0 +1,38 @@
+.this-week__story-button {
+  width: 158px;
+  height: 39px;
+  margin: 30px 0 0;
+  padding: 0;
+  background-color: transparent;
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 125%;
+  letter-spacing: 0.48px;
+  color: #2A1804;
+  box-sizing: border-box;
+  border: 1px solid #2A1804;
+}
+
+.this-week__story-button:hover {
+  cursor: pointer;
+  opacity: .5;
+  transition: 0.3s ease-out;
+}
+
+
+@media screen and (min-width: 475px) {
+  .this-week__story-button {
+    width: 210px;
+    height: 52px;
+    font-size: 24px;
+  }
+}
+
+
+@media screen and (min-width: 1024px) {
+  .this-week__story-button {
+    margin: 0;
+  }
+}

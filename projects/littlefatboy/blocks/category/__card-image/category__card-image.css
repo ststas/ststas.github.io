@@ -1,0 +1,6 @@
+.category__card-image {
+  width: 190px;
+  max-height: 190px;
+  object-fit: cover;
+  overflow: hidden;
+}

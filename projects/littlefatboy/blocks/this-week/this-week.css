@@ -1,0 +1,14 @@
+.this-week {
+  display: flex;
+  flex-direction: column;
+  width: 100%; 
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 0 30px;
+}
+
+@media screen and (min-width: 1200px) {
+  .this-week {
+    max-width: 1200px;
+  }
+}
