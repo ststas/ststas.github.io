@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/projects/mestoreact/static/css/main.66aeabe6.css",
-    "main.js": "/projects/mestoreact/static/js/main.37d39993.js",
+    "main.css": "/projects/mestoreact/static/css/main.e07c9743.css",
+    "main.js": "/projects/mestoreact/static/js/main.2d5022b1.js",
     "static/media/spinner-loading.gif": "/projects/mestoreact/static/media/spinner-loading.c1b8565f12c3c976ba01.gif",
     "static/media/Inter-Medium.woff": "/projects/mestoreact/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
     "static/media/Inter-Black.woff": "/projects/mestoreact/static/media/Inter-Black.c6938660eec019fefd68.woff",
@@ -19,11 +19,11 @@
     "static/media/edit-button.svg": "/projects/mestoreact/static/media/edit-button.ff0fcb318a3974db48d1.svg",
     "static/media/add-button.svg": "/projects/mestoreact/static/media/add-button.d86bb2edc2f6eadb96b7.svg",
     "static/media/close-button.svg": "/projects/mestoreact/static/media/close-button.b793e07c3f4c19e26c11.svg",
-    "main.66aeabe6.css.map": "/projects/mestoreact/static/css/main.66aeabe6.css.map",
-    "main.37d39993.js.map": "/projects/mestoreact/static/js/main.37d39993.js.map"
+    "main.e07c9743.css.map": "/projects/mestoreact/static/css/main.e07c9743.css.map",
+    "main.2d5022b1.js.map": "/projects/mestoreact/static/js/main.2d5022b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.66aeabe6.css",
-    "static/js/main.37d39993.js"
+    "static/css/main.e07c9743.css",
+    "static/js/main.2d5022b1.js"
   ]
 }
