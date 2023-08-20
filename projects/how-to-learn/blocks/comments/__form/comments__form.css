@@ -1,0 +1,18 @@
+.comments__form {
+  width: 47%;
+  height: 200px;
+  resize: none;
+  border: none;
+  border-radius: 5px;
+  margin: 10px auto 20px;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  z-index: 1;
+
+}
+
+.comments__form:focus {
+  outline-color: #2f80ed;
+  outline-width: 1px;
+}

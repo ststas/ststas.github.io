@@ -1,0 +1,10 @@
+.comments__circle-pic {
+  height: 1100px;
+  width: 900px;
+  background-color: #2f80ed;
+  border-radius: 50%;
+  position: absolute;
+  top: 30%;
+  left: -35%;
+
+}
