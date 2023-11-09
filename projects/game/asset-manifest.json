@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/projects/game/static/css/main.378b9320.css",
-    "main.js": "/projects/game/static/js/main.9e587561.js",
+    "main.css": "/projects/game/static/css/main.78359d99.css",
+    "main.js": "/projects/game/static/js/main.fc998e81.js",
     "static/media/background_city.png": "/projects/game/static/media/background_city.10aa34cac6140a216bf6.png",
-    "static/media/Inter-Medium.woff": "/projects/game/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
-    "static/media/Inter-Black.woff": "/projects/game/static/media/Inter-Black.c6938660eec019fefd68.woff",
-    "static/media/Inter-Regular.woff": "/projects/game/static/media/Inter-Regular.8c206db99195777c6769.woff",
-    "static/media/Inter-Medium.woff2": "/projects/game/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
-    "static/media/Inter-Black.woff2": "/projects/game/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
-    "static/media/Inter-Regular.woff2": "/projects/game/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
-    "static/media/Press Start 2P.woff": "/projects/game/static/media/Press Start 2P.7d79756ae5d8d5bd5239.woff",
-    "static/media/Press Start 2P.woff2": "/projects/game/static/media/Press Start 2P.5e0db58d69f2143d7ddf.woff2",
+    "static/media/counter_background.svg": "/projects/game/static/media/counter_background.0deb5b7bebd92f1df2b5.svg",
+    "static/media/counter_background_red.svg": "/projects/game/static/media/counter_background_red.08b074f63000699e059c.svg",
+    "static/media/button_background.svg": "/projects/game/static/media/button_background.23e8cd288c521ee11d28.svg",
+    "static/media/timer.svg": "/projects/game/static/media/timer.b3c8d6636c890dad1d551e5e557689ea.svg",
+    "static/media/popup_background.svg": "/projects/game/static/media/popup_background.3905496d243dc2b717e6.svg",
+    "static/media/press_start_2p_regular.woff2": "/projects/game/static/media/press_start_2p_regular.12813eb2deb558e82ff2.woff2",
+    "static/media/boss_head.svg": "/projects/game/static/media/boss_head.97b12d7aed78d03e449cc043b1e208bb.svg",
+    "static/media/finger_mid.svg": "/projects/game/static/media/finger_mid.6afc2842801067a85dc0d5346a31e1ef.svg",
+    "static/media/finger_up.svg": "/projects/game/static/media/finger_up.f1ffa21969ea824cd4e1204411aa07b5.svg",
+    "static/media/finger_down.svg": "/projects/game/static/media/finger_down.0fafa2a3345db26613f51580e0da2834.svg",
     "index.html": "/projects/game/index.html",
-    "main.378b9320.css.map": "/projects/game/static/css/main.378b9320.css.map",
-    "main.9e587561.js.map": "/projects/game/static/js/main.9e587561.js.map"
+    "static/media/press_start_2p_regular.woff": "/projects/game/static/media/press_start_2p_regular.31d6cfe0d16ae931b73c.woff",
+    "main.78359d99.css.map": "/projects/game/static/css/main.78359d99.css.map",
+    "main.fc998e81.js.map": "/projects/game/static/js/main.fc998e81.js.map"
   },
   "entrypoints": [
-    "static/css/main.378b9320.css",
-    "static/js/main.9e587561.js"
+    "static/css/main.78359d99.css",
+    "static/js/main.fc998e81.js"
   ]
 }
