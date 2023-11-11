@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/projects/game/static/css/main.af6abe1f.css",
-    "main.js": "/projects/game/static/js/main.75ac6a52.js",
+    "main.js": "/projects/game/static/js/main.cba9f435.js",
+    "static/js/845.99b0ee9b.chunk.js": "/projects/game/static/js/845.99b0ee9b.chunk.js",
     "static/media/background_city.png": "/projects/game/static/media/background_city.10aa34cac6140a216bf6.png",
+    "static/media/soundtrack.mp3": "/projects/game/static/media/soundtrack.69bd18606aa1cbd6f043.mp3",
     "static/media/counter_background.svg": "/projects/game/static/media/counter_background.0deb5b7bebd92f1df2b5.svg",
     "static/media/counter_background_red.svg": "/projects/game/static/media/counter_background_red.08b074f63000699e059c.svg",
     "static/media/button_background.svg": "/projects/game/static/media/button_background.23e8cd288c521ee11d28.svg",
@@ -10,16 +12,19 @@
     "static/media/popup_background.svg": "/projects/game/static/media/popup_background.3905496d243dc2b717e6.svg",
     "static/media/press_start_2p_regular.woff2": "/projects/game/static/media/press_start_2p_regular.12813eb2deb558e82ff2.woff2",
     "static/media/boss_head.svg": "/projects/game/static/media/boss_head.97b12d7aed78d03e449cc043b1e208bb.svg",
+    "static/media/fx_success.mp3": "/projects/game/static/media/fx_success.9af01e4f54101e78e1f5.mp3",
+    "static/media/fx_fault.mp3": "/projects/game/static/media/fx_fault.c8f73f0a913ec67b0790.mp3",
     "static/media/finger_mid.svg": "/projects/game/static/media/finger_mid.6afc2842801067a85dc0d5346a31e1ef.svg",
     "static/media/finger_up.svg": "/projects/game/static/media/finger_up.f1ffa21969ea824cd4e1204411aa07b5.svg",
     "static/media/finger_down.svg": "/projects/game/static/media/finger_down.0fafa2a3345db26613f51580e0da2834.svg",
     "index.html": "/projects/game/index.html",
     "static/media/press_start_2p_regular.woff": "/projects/game/static/media/press_start_2p_regular.31d6cfe0d16ae931b73c.woff",
     "main.af6abe1f.css.map": "/projects/game/static/css/main.af6abe1f.css.map",
-    "main.75ac6a52.js.map": "/projects/game/static/js/main.75ac6a52.js.map"
+    "main.cba9f435.js.map": "/projects/game/static/js/main.cba9f435.js.map",
+    "845.99b0ee9b.chunk.js.map": "/projects/game/static/js/845.99b0ee9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af6abe1f.css",
-    "static/js/main.75ac6a52.js"
+    "static/js/main.cba9f435.js"
   ]
 }
