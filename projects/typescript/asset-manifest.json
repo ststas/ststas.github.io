@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/projects/typescript/static/css/main.df3053f3.css",
+    "main.js": "/projects/typescript/static/js/main.33278979.js",
+    "static/media/Montserrat-Bold.woff": "/projects/typescript/static/media/Montserrat-Bold.f0032576ac7462ccbd0c.woff",
+    "static/media/Montserrat-Medium.woff": "/projects/typescript/static/media/Montserrat-Medium.2a3e005f58bfca9c117e.woff",
+    "static/media/Montserrat-SemiBold.woff": "/projects/typescript/static/media/Montserrat-SemiBold.16e8721ef5837bc6375e.woff",
+    "static/media/Nunito-Bold.woff": "/projects/typescript/static/media/Nunito-Bold.299ecebce7241f8b5953.woff",
+    "static/media/Roboto-Medium.woff": "/projects/typescript/static/media/Roboto-Medium.93070d8c4d6b12e2a430.woff",
+    "static/media/Roboto-Regular.woff": "/projects/typescript/static/media/Roboto-Regular.c85b1aece68e093f5e23.woff",
+    "static/media/search.svg": "/projects/typescript/static/media/search.6941019ac262c9208a752395b7b8e2ed.svg",
+    "index.html": "/projects/typescript/index.html",
+    "static/media/chevron.svg": "/projects/typescript/static/media/chevron.6668845dcfd52b70b927d2ede036d8b0.svg",
+    "static/media/chevron_up.svg": "/projects/typescript/static/media/chevron_up.250e36d9a5c5494a799719e05ddb4adc.svg",
+    "main.df3053f3.css.map": "/projects/typescript/static/css/main.df3053f3.css.map",
+    "main.33278979.js.map": "/projects/typescript/static/js/main.33278979.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df3053f3.css",
+    "static/js/main.33278979.js"
+  ]
+}
