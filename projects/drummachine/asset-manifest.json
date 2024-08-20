@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.11ac45e8.css",
-    "main.js": "/static/js/main.55207783.js",
-    "static/js/845.d7ad752e.chunk.js": "/static/js/845.d7ad752e.chunk.js",
-    "static/media/BD.WAV": "/static/media/BD.fee853d10c05929a1020.WAV",
-    "static/media/CL.WAV": "/static/media/CL.ae86034874a36fd1ccff.WAV",
-    "static/media/OH.WAV": "/static/media/OH.f132a0cebdd63678556f.WAV",
-    "static/media/CH.WAV": "/static/media/CH.973f5994170dee485da9.WAV",
-    "index.html": "/index.html",
-    "main.11ac45e8.css.map": "/static/css/main.11ac45e8.css.map",
-    "main.55207783.js.map": "/static/js/main.55207783.js.map",
-    "845.d7ad752e.chunk.js.map": "/static/js/845.d7ad752e.chunk.js.map"
+    "main.css": "/projects/drummachine/static/css/main.11ac45e8.css",
+    "main.js": "/projects/drummachine/static/js/main.6d212428.js",
+    "static/js/845.d7ad752e.chunk.js": "/projects/drummachine/static/js/845.d7ad752e.chunk.js",
+    "static/media/BD.WAV": "/projects/drummachine/static/media/BD.fee853d10c05929a1020.WAV",
+    "static/media/CL.WAV": "/projects/drummachine/static/media/CL.ae86034874a36fd1ccff.WAV",
+    "static/media/OH.WAV": "/projects/drummachine/static/media/OH.f132a0cebdd63678556f.WAV",
+    "static/media/CH.WAV": "/projects/drummachine/static/media/CH.973f5994170dee485da9.WAV",
+    "index.html": "/projects/drummachine/index.html",
+    "main.11ac45e8.css.map": "/projects/drummachine/static/css/main.11ac45e8.css.map",
+    "main.6d212428.js.map": "/projects/drummachine/static/js/main.6d212428.js.map",
+    "845.d7ad752e.chunk.js.map": "/projects/drummachine/static/js/845.d7ad752e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11ac45e8.css",
-    "static/js/main.55207783.js"
+    "static/js/main.6d212428.js"
   ]
 }
